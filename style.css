@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+#banner{
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+    text-align: center;
+    padding-top: 150px;
+}
+#banner h1{
+    font-size: 60px;
+    color: white;
+    line-height: 90px;
+}
+#banner p{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(236, 233, 233);
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+.custom-btn{
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 15px 35px;
+    color: white;
+    font-size: 23px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+}
+#donation{
+    background-color: #ffffff;
+    text-align: center;
+}
+.donation-header h1{
+    font-size: 50px;
+    color: #121212;
+    font-weight: bold;
+    margin-top: 150px;
+}
+.donation-header p{
+    font-size: 20px;
+    color: #7e7e7e;
+    margin-bottom: 100px;
+    line-height: 30px;
+}
+.amount span{
+    padding: 30PX 40PX;
+    background-color: #FAFAFA;
+    margin-right: 30px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #7e7e7e;
+    border-radius: 10px;
+}
+.amount .mark-amount{
+    background-color: #ffeeee;
+    color: #ff7c7c;
+    border: 2px solid #ff5959;
+}
+.other-help{
+    margin-top: 100px;
+}
+.other-help input{
+    width: 800px;
+    padding: 20px;
+    font-size: 20px;
+    color: #7e7e7e;
+    text-align: center;
+    font-weight: 400;
+    border: none;
+    border-bottom: 1px solid #747575;
+    margin-bottom: 50px;
+}
+#donate-plan{
+    background-color: #ffffff;
+    text-align: center;
+}
+#donate-plan h1{
+    font-size: 50px;
+    color: #121212;
+    font-weight: bold;
+    margin-top: 150px;
+}
+#donate-plan p{
+    font-size: 20px;
+    color: #7e7e7e;
+    margin-bottom: 100px;
+    line-height: 30px;
+}
+.family-blog{
+    display: flex;
+    padding: 5px 100px;
+    text-align: left;
+}
+.family-blog div{
+    width: 30%;
+    padding: 20px;
+    margin: 0px 20px ;
+    border-radius: 10px;
+}
+.family-blog img{
+    width: 100px;
+    margin-top: 50px;
+}
+.family-blog h3{
+    margin-top: 10px;
+    font-size: 35px;
+    color: #121212;
+    font-weight: 600;
+}
+.family-blog p{
+    color: #747575;
+}
+.food-blog{
+    background-color: #edf5f6;
+}
+.relative-blog{
+    background-color: #ffeeee;
+}
+.edu-blog{
+    background-color: #fff4d6;
+}
+#connect-us{
+    background-color: #ffffff;
+    text-align: center;
+}
+#connect-us h1{
+    font-size: 50px;
+    color: #121212;
+    font-weight: bold;
+    margin-top: 150px;
+}
+#connect-us p{
+    font-size: 20px;
+    color: #7e7e7e;
+    margin-bottom: 100px;
+    line-height: 30px;
+}
+.form{
+    width: 800px;
+    margin: 0 auto;
+    padding: 100px 200px;
+    background-color: #fff4d6;
+}
+.form input{
+    padding: 20px 50px;
+    text-align: left;
+    background-color: #d9d9d9;
+    border: none;
+    border-radius: 10px 0px 0px 10px;
+    font-size: 20px;
+}
+.form button{
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    font-size: 20px;
+    padding: 20px 50px;
+    background-color: #ff5959;
+    color: white;
+}
+footer{
+    background-color: #121212;
+    height: 200px;
+    text-align: center;
+    margin-top: 150px;
+}
+footer h3{
+    font-size: 30px;
+    color: #ff5959;
+    padding: 30px;
+    font-style: italic;
+}
+footer p{
+    font-size: 20px;
+    color: #747575;
+}
